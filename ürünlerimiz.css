@@ -1,0 +1,50 @@
+* {
+
+    font-size: 25px;
+
+
+
+}
+
+.body {
+
+
+
+    background-color: #E9ECEF;
+    
+    
+}
+
+.container {
+   
+    column-gap: 200px;
+
+
+
+}
+
+
+
+.card   {
+
+
+width: auto;
+height: 600px;
+
+
+}
+
+.card-body {
+
+    width: auto;
+    height: 600px;
+    
+margin-top: 10px;
+
+}
+
+ 
+
+
+
+
